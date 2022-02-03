@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Greg",
 	"description": "Description",
+	"keywords": ["freecodecamp", "yeet"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
